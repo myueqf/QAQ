@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "xwx",
+	"version": "${version}",
+	"name": "XwX",
+	"description": "一个可以让你飞起来的mod嗷～ \n 不需要服务端安装捏～纯客户端mod嗷～ \n tips:lanzhan5656和myueqf是一个人啦～只不过一个是游戏名和modrinth用户名，一个是github用户名捏～ \n 嗷对嗷，在多人服务器使用是可以哒。。。但是被ban了以后窝不负任何责任嗷！",
+	"authors": [
+		"lanzhan5656",
+		"myueqf"
+	],
+	"contact": {
+		"sources": "https://github.com/myueqf/QAQ"
+	},
+	"license": "GPL-2.0-only",
+	"icon": "assets/xwx/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.modid.XwX"
+		],
+		"fabric-datagen": [
+
+		]
+	},
+	"mixins": [
+		"xwx.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "*",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
