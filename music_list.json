@@ -7,6 +7,20 @@
       "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/雨泞老爷、雁心社 - 照梦【渣反·冰九纯歌版】.lrc"
     },
     {
+      "name": "与君长相见（《人渣反派自救系统》同人曲）",
+      "artist": "硕猗",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/与君长相见（《人渣反派自救系统》同人曲） - 硕猗.mp3",
+      "cover": "img/logo.png",
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/与君长相见（《人渣反派自救系统》同人曲） - 硕猗.lrc"
+    },
+    {
+      "name": "与君长相见（剧情版）",
+      "artist": "硕猗",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/与君长相见（剧情版） - 硕猗.mp3",
+      "cover": "img/logo.png",
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/与君长相见（剧情版） - 硕猗.lrc"
+    },
+    {
       "name": "栖枝",
       "artist": "双笙（陈元汐）",
       "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/栖枝 - 双笙（陈元汐）.mp3",
@@ -28,6 +42,20 @@
       "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/人世终白首-《魔道祖师》忘羡同人曲.lrc"
     },
     {
+      "name": "问琴",
+      "artist": "银临",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/银临 - 问琴.flac",
+      "cover": "img/logo.png",
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/银临 - 问琴.lrc"
+    },
+    {
+      "name": "似我非我《天官赐福》君吾同人曲",
+      "artist": "王老九",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/似我非我《天官赐福》君吾同人曲 - 王老九.mp3",
+      "cover": "img/logo.png",
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/似我非我《天官赐福》君吾同人曲 - 王老九.lrc"
+    },
+    {
       "name": "晚夜微雨问海棠（女声高燃版）",
       "artist": "五毛,你木木君joon",
       "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/晚夜微雨问海棠（女声高燃版）-五毛,你木木君joon.mp3",
@@ -42,18 +70,11 @@
       "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/镜予歌、喧笑、陈亦洺 - 怎配.lrc"
     },
     {
-      "name": "不记年",
-      "artist": "妖言君",
-      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/不记年 - 妖言君.mp3",
+      "name": "千秋迭梦",
+      "artist": "阿YueYue、镜予歌",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/阿YueYue、镜予歌 - 千秋迭梦.mp3",
       "cover": "img/logo.png",
-      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/不记年 - 妖言君.lrc"
-    },
-    {
-      "name": "风月无边",
-      "artist": "晃儿",
-      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/风月无边 - 晃儿.mp3",
-      "cover": "img/logo.png",
-      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/风月无边 - 晃儿.lrc"
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/阿YueYue、镜予歌 - 千秋迭梦.lrc"
     },
     {
       "name": "晚夜微雨问海棠",
@@ -68,6 +89,13 @@
       "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/海棠又落微雨时 - 陈亦洺、墨臻.mp3",
       "cover": "img/logo.png",
       "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/海棠又落微雨时 - 陈亦洺、墨臻.lrc"
+    },
+    {
+      "name": "肆时家书——《食物语》手游四周年主题曲",
+      "artist": "喵叽娆",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/肆时家书——《食物语》手游四周年主题曲 - 喵叽娆.opus",
+      "cover": "img/logo.png",
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/肆时家书——《食物语》手游四周年主题曲 - 喵叽娆.lrc"
     },
     {
       "name": "《遥见海棠闻风雪》（神英x《二哈和他的白猫师尊》推广曲）",
@@ -96,5 +124,19 @@
       "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/却道海棠依旧 - 樱花小狼【墨燃】&【楚晚宁】南风ZJN.mp3",
       "cover": "img/logo.png",
       "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/却道海棠依旧 - 樱花小狼【墨燃】&【楚晚宁】南风ZJN.lrc"
+    },
+    {
+      "name": "不记年",
+      "artist": "妖言君",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/不记年 - 妖言君.mp3",
+      "cover": "img/logo.png",
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/不记年 - 妖言君.lrc"
+    },
+    {
+      "name": "风月无边",
+      "artist": "晃儿",
+      "url": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/风月无边 - 晃儿.mp3",
+      "cover": "img/logo.png",
+      "lrc": "https://cdn.jsdelivr.net/gh/myueqf/QAQ/music/风月无边 - 晃儿.lrc"
     }
 ]
